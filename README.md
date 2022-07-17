@@ -1,4 +1,6 @@
-# TWITTER-ANALYSIS-OF-30DAYSOFLEARNING[TWITTER ANALYSIS #30DAYSOFLEARNING.pdf](https://github.com/Elemawusi/TWITTER-ANALYSIS-OF-30DAYSOFLEARNING/files/9128227/TWITTER.ANALYSIS.30DAYSOFLEARNING.pdf)
+# TWITTER-ANALYSIS-OF-30DAYSOFLEARNING
+[TWITTER ANALYSIS #30DAYSOFLEARNING.pdf]
+(https://github.com/Elemawusi/TWITTER-ANALYSIS-OF-30DAYSOFLEARNING/files/9128227/TWITTER.ANALYSIS.30DAYSOFLEARNING.pdf)
 
 The 30 Days of Learning for students in Nigeria was organized by @theoyinbooke and Microsoft to aid students in acquiring relevant tech skills. The Twitter analysis and visualization of the hashtag 30daysoflearning was carried out using Excel and Power BI
 ----
